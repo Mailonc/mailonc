@@ -1,6 +1,6 @@
 ### Ola! eu sou Mailon Cesar, programming and technology content creator!
 
-- 💼 Trabalho com Front-End
+- 💼 Trabalho com back-End
 - 🧠 Cursando Engenharia Softwear
 
 BYO
